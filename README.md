@@ -8,6 +8,8 @@ systemctl start apache2
 
 systemctl start mysql
 
+python3 windows.py
+
 ## Функции приложения
 
 
