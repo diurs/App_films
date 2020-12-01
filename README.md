@@ -29,6 +29,7 @@ python3 windows.py
 
 ![Снимок экрана 2020-12-01 в 14 53 20](https://user-images.githubusercontent.com/61711711/100748535-7dc48500-33f4-11eb-9702-b236bc5a5ec2.png)
 
+
 ### Поиск по нескольким критериям
 
 
