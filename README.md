@@ -61,5 +61,3 @@ python3 windows.py
 
 ![Снимок экрана 2020-12-01 в 16 17 53](https://user-images.githubusercontent.com/61711711/100748770-d09e3c80-33f4-11eb-89e3-8b4fbab75391.png)
 
-
-(в процессе разработки)
