@@ -1,4 +1,4 @@
-# App_films V.1
+# App_films
 Application with films of the viewer's choice. The DB "Kinopoisk Top 250 films" is used here.
 
 
